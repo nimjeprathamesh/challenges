@@ -1,0 +1,1 @@
+export const BACKEND_URL = "https://challenges-backend-nu.vercel.app";
